@@ -23,11 +23,11 @@
 })();
 
 const messages = [
-    "Are you sure, bub?",
+    "Are you sure, bubBleSort?",
     ":( Masa gamau sihhhh??",
-    "WAWAAAAAAA ayoolahhhh?",
-    "Pubib pleaseee...",
-    "Coba sekali lagi ya dud!",
+    "WAWAAAAAAAshingtonDC ayoolahhhh?",
+    "Pubhub pleaseee...",
+    "Coba sekali lagi ya dudEperfect!",
     "Hufttt ayo donkkkk...",
     "Psyduck udah pusing bgt...",
     "Meonggg pretty pleaseee...",
